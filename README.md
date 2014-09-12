@@ -1,0 +1,1 @@
+A Java program to simulate Tic Tac Toe against an algorithm designed to never lose. The program has a graphic user interface designed with the Swing library.
